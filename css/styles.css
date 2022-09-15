@@ -1,0 +1,22 @@
+body {
+   background-color: azure;
+   background-image: url(https://i.pinimg.com/originals/54/19/c5/5419c53cdbf5e85f98909b3c159dd8de.png);
+}
+h1 {
+   text-align: center;
+}
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 6%;
+}
+p {
+   text-align: center;
+   font-size: 13px;
+}
+form {
+   text-align: center;
+   font-size: 13px;
+}
